@@ -1,8 +1,8 @@
 [
     {
-        "Author": "attick, daemitus, VariableVixen Ank",
+        "Author": "attick, daemitus, VariableVixen, Ank",
         "Name": "XIV Combo Very Expanded Ank Edition",
-        "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button. To a degree that some would call absurd, but that's why it's all configurable. Let the players decide.",
+        "Description": "My custom edit fo original plugin.",
         "InternalName": "XIVComboVX-ANK",
         "AssemblyVersion": "6.0.8254.6712",
         "RepoUrl": "https://github.com/Ank164/XIVComboPlugin",
