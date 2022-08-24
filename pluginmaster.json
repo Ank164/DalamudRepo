@@ -7,7 +7,7 @@
         "AssemblyVersion": "6.0.8254.6712",
         "RepoUrl": "https://github.com/Ank164/XIVComboPlugin",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "DownloadLinkInstall": "https://github.com/Ank164/DalamudRepo/blob/main/plugins/XIVComboVX/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
